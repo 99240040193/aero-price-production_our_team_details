@@ -56,7 +56,7 @@ const teamMembers = [
     name: 'Nicepreet Kour',
     role: 'UI / UX Developer',
     photo: './images/team/image6.jpeg',
-    linkedin: 'https://www.linkedin.com/in/friendusername',
+    linkedin: 'https://www.linkedin.com/in/nicepreet-kour-7b2553378',
     github: 'https://github.com/friendusername',
     email: 'friend@gmail.com',
     instagram: 'https://www.instagram.com/friendusername/',
