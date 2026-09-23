@@ -1,4 +1,4 @@
-import TeamSection from './TeamSection';
+import TeamSection from "../TeamSection";
 
 function App() {
   return (
