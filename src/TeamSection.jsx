@@ -98,10 +98,6 @@ function InstagramIcon() {
 function TeamCard({ member }) {
   return (
     <div className="team-card">
-      <div className="node-label">
-        {member.id}
-      </div>
-
       <div className="profile-wrapper">
         <img src={member.photo} alt={member.name} className="profile-image" />
         <div className="role-badge">&lt;/&gt;</div>
