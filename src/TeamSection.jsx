@@ -17,7 +17,7 @@ const teamMembers = [
     role: 'Computer Vision Developer',
     photo: './images/team/image2.jpeg',
     linkedin: 'https://www.linkedin.com/in/narasimha-appikatla-7a7b70327/',
-    github: 'https://github.com/massgravel/Microsoft-Activation-Scripts',
+    github: 'https://github.com/99240040193',
     email: 'durganarasimhaappikatla@gmail.com',
     instagram: 'https://www.instagram.com/_rich_kid_narasimha/',
   },
@@ -100,7 +100,6 @@ function TeamCard({ member }) {
     <div className="team-card">
       <div className="node-label">
         {member.id}
-        <span>● ACTIVE</span>
       </div>
 
       <div className="profile-wrapper">
